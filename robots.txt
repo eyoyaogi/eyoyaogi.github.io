@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyoyaogi.github.io/sitemap_index.eyoyaogi
